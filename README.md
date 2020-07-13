@@ -1,5 +1,7 @@
 # SISTEMA-MINI-CRUD
 
+CRUD en SQL Server.
+
 ### Arquictectura NCAPAS:
 + Capa Entidades
 + Capa Presentación
