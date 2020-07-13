@@ -1,0 +1,76 @@
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.FormInventario.resources
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.FormInventario.resources
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.FormInventario.resources
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.FormInventario.resources
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

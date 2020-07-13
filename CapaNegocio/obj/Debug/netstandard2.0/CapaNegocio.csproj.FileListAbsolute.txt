@@ -1,0 +1,33 @@
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\bin\Debug\netstandard2.0\CapaNegocio.deps.json
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\bin\Debug\netstandard2.0\CapaNegocio.dll
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\bin\Debug\netstandard2.0\CapaNegocio.pdb
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\bin\Debug\netstandard2.0\CapaDatos.dll
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\bin\Debug\netstandard2.0\CapaDatos.pdb
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.csproj.CopyComplete
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.dll
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.pdb
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Acer\Desktop\Portafolio\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.dll
+C:\Users\llane\Documents\Respaldo David\Respaldo\Respaldo\Escritorio\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.pdb
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\bin\Debug\netstandard2.0\CapaNegocio.deps.json
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\bin\Debug\netstandard2.0\CapaNegocio.dll
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\bin\Debug\netstandard2.0\CapaNegocio.pdb
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\bin\Debug\netstandard2.0\CapaDatos.dll
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\bin\Debug\netstandard2.0\CapaDatos.pdb
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.csproj.CopyComplete
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.dll
+C:\Users\llane\Desktop\Portafolio\Proyectos escritorio C#\CRUD C#, WINFORM, SQL SERVER, POO Y ARQUICTECTURA EN CAPAS (NIVEL BASICO)\CapaNegocio\obj\Debug\netstandard2.0\CapaNegocio.pdb
